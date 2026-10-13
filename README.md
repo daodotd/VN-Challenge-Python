@@ -5,7 +5,7 @@ Một dự án trò chơi về thể loại **Puzzle** và **Casual Game** trên
 ---
 
 ## 📹 Link video
-- Link video demo: https://youtu.be/mjHlNSr0Ibs
+- Link video demo: https://youtu.be/i0HBCMmLB2Y
 
 ---
 
